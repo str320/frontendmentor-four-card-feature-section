@@ -1,0 +1,42 @@
+:root {
+    /* Colors */
+    --clr-primary-100: #FFFFFF;
+    --clr-primary-600: #6A7178;
+    --clr-primary-900: #4D4F62;
+
+    
+    --clr-secondary-100: #44D3D2;
+    --clr-secondary-300: #549EF2;
+    --clr-secondary-600: #FCAE4A;
+    --clr-secondary-900: #EA5454;
+
+    /* Fonts */
+
+    --fw-ul: 200;
+    --fw-rg: 400;
+    --fw-smb: 600;
+
+    --fs-36: 2.25rem;
+    --fs-20: 1.25rem;
+    --fs-15: 0.9375rem;
+    --fs-13: 0.8125rem;
+
+    --lh-140: 1.4;
+    --lh-135: 1.35;
+    --lh-160: 1.6;
+    
+    --lsp-25: 0.25px;
+
+    /* Spacing */
+
+    --sp-40: 2.5rem;
+    --sp-32: 2rem;
+    --sp-24: 1.5rem;
+    --sp-16: 1rem;
+    --sp-8: 0.5rem;
+}
+
+body {
+    background-color: #FAFAFA;
+    font-family: "Poppins";
+}

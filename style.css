@@ -1,0 +1,17 @@
+/* Reset */
+@import url("./base/_base.css");
+
+/* Default */
+@import url("./default/_default.css");
+
+/* Container */
+@import url("../common.blocks/contaianer/_container.css");
+
+/* Header */
+@import url("../common.blocks/header/_header.css");
+
+/* Product Cards */
+@import url("../common.blocks/product__cards/_product__cards.css");
+
+/* Media */
+@import url("../common.blocks/product__cards/media/_media.css");

@@ -1,0 +1,27 @@
+@media (width <= 52rem) {
+    .product__cards {
+        grid-template-columns: 1fr;
+        place-items: center;
+    }
+    .product__card-column {
+        grid-template-columns: 1fr 1fr;
+    }
+    .product__card {
+        max-width: 19.625rem;
+    }
+}
+
+@media (width <= 35.31rem) {
+    .product__card-column {
+        grid-template-columns: 1fr;
+    }
+    .header__content {
+        max-width: 19.75rem;
+    }
+    .header__content-title {
+        font-size: 1.5rem;
+    }
+    .header__content-subtitle {
+        font-size: 1.5rem;
+    }
+} 
