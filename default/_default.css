@@ -39,4 +39,7 @@
 body {
     background-color: #FAFAFA;
     font-family: "Poppins";
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100vh;
 }
